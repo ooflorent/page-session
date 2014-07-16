@@ -1,0 +1,12 @@
+{
+  "name": "page-session",
+  "version": "0.1.0",
+  "description": "Simple session middleware for page.js",
+  "author": "Florent Cailhol <florent.cailhol@gmail.com>",
+  "repository": "ooflorent/page-session",
+  "keywords": [
+    "session",
+    "page"
+  ],
+  "license": "MIT"
+}
